@@ -1,0 +1,16 @@
+{
+  "name": "heb_chain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "elliptic": "^6.4.1",
+    "vorpal": "^1.12.0"
+  }
+}
